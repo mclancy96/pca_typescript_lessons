@@ -12,3 +12,12 @@ Our curriculum spans **a few weeks** and gradually builds from core concepts to 
 - To show **clear, direct comparisons** between JavaScript and TypeScript
 - To explain **TypeScript concepts clearly and practically**, in the same order you learned JavaScript
 - To provide a **reference** you can return to even after the course
+
+## Links to Lab Repos
+
+- Lab 1: Variables & Functions
+- Lab 2: Objects, Arrays & Type Aliases
+- Lab 3: Union Types & Type Narrowing
+- Lab 4: Interfaces, Extending & Enums
+- Lab 5: Tuples, Assertion & Unknown
+- Lab 6: Bonus Challenges & Applications
