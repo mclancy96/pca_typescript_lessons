@@ -15,9 +15,9 @@ Our curriculum spans **a few weeks** and gradually builds from core concepts to 
 
 ## Links to Lab Repos
 
-- Lab 1: Variables & Functions
-- Lab 2: Objects, Arrays & Type Aliases
-- Lab 3: Union Types & Type Narrowing
-- Lab 4: Interfaces, Extending & Enums
-- Lab 5: Tuples, Assertion & Unknown
-- Lab 6: Bonus Challenges & Applications
+- Lab 1: [Variables & Functions](https://github.com/mclancy96/pca_typescript_lab_1)
+- Lab 2: [Objects, Arrays & Type Aliases](https://github.com/mclancy96/pca_typescript_lab_2)
+- Lab 3: [Union Types & Type Narrowing](https://github.com/mclancy96/pca_typescript_lab_3)
+- Lab 4: [Interfaces, Extending & Enums](https://github.com/mclancy96/pca_typescript_lab_4)
+- Lab 5: [Tuples, Assertion & Unknown](https://github.com/mclancy96/pca_typescript_lab_5)
+- Lab 6: [Bonus Challenges & Applications](https://github.com/mclancy96/pca_typescript_lab_6)
